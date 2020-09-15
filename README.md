@@ -6,5 +6,5 @@
 
 Me chamo Joseph Sousa.
  - Graduado em análise e desenvolvimento de sistemas. 
- - Professor de um curso técnico em informática nas disciplinas de programação orientada a objetos, linguagem de programação, banco de dados I e II.
- - Desenvolvedor Java.
+ - Dev JAVA Pleno Outedg Soluções.
+ 
