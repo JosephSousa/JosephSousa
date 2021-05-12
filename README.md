@@ -6,5 +6,5 @@
 
 Me chamo Joseph Sousa.
  - Graduado em análise e desenvolvimento de sistemas. 
- - Dev JAVA Pleno Outedg Soluções.
+ - Dev JAVA Pleno Radix Engenharia e Software .
  
